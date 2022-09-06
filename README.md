@@ -33,7 +33,7 @@ Goals above $45000 should be reconsidered given their near 100% chance to fail. 
 
 ### Dataset limitations
 
-The timeframe is dated (2014-2016). If the analysis is intended for decisionmaking in 2022 (post-COVID), health considerations and changes in disposable income amid rapid inflation in 2021-2 may influence different consumer spending behavior/preferences compared to 2014-6. 
+The timeframe is dated (2014-2016). If the analysis is intended for decisionmaking in 2022, health considerations post-COVID and changes in disposable income amid rapid inflation in 2021-2 may influence different consumer spending behavior/preferences compared to previous years. 
 
 Another limitation is not having more variables to explore causes of failure. While timing and financial targets most likely contribute to project success or failure, other factors such as appeal of the project on target audiences (if any) likely play a role as well.  
 
