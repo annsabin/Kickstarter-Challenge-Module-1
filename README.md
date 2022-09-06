@@ -3,7 +3,7 @@ Excel spreadsheet analysis using formulas, pivot tables, and visualizations.
 
 ## Overview of Project
 
-### The purpose of this project was to ensure students can extract insights from datasets in Excel spreadsheets using formulas and visualize results. 
+### The purpose of this project was to ensure students extract insights from datasets in Excel spreadsheets using formulas and visualize results. 
 
 ## Analysis and Challenges
 
