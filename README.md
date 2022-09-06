@@ -29,7 +29,7 @@ The months of May and June showed both the highest number of successful projects
 
 ### Conclusions based on goals
 
-Goals above $45000 should be reconsidered given their near 100% chance to fail. To maximize chances of success, goals should focus on campaigns aiming for  $1000 to $450000. Based on previous yearly records, the goals most likely to succeed will be in two ranges: one under $1000 and one between $35-45000. 
+Goals above $45000 should be reconsidered given their near 100% chance to fail. To maximize chances of success, goals should focus on campaigns aiming for  $1000 to $450000. Based on previous yearly records, the goals most likely to succeed will fall in two ranges: one under $1000 and one between $35-45000. 
 
 ### Dataset limitations
 
